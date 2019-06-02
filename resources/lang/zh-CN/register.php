@@ -6,7 +6,7 @@ return [
     'username_placeholder' => '请填入邮箱',
     'password'             => '请填入密码',
     'retype_password'      => '请再次填入密码',
-    'code'                 => '邀请码',
+    'code'                 => '邀请码(可选)',
     'captcha'              => '验证码',
     'tnc_button'           => '我已阅读并同意遵守',
     'tnc_link'             => '服务条款',
