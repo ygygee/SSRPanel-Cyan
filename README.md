@@ -4,8 +4,6 @@ Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 - [Demo](https://demo.ssrpanel.com)
 - [Telegram](https://t.me/ssrpanel)
 
-![Chat in Telegram](https://i.loli.net/2019/01/10/5c37189a75edd.png)
-
 ## Requirements
 - PHP 7.1.3 +
 - Mysql 5.5 +
